@@ -4,6 +4,7 @@
   "description": "node back end to call discogs api",
   "main": "index.js",
   "dependencies": {
+    "disconnect": "^1.2.1",
     "express": "^4.17.1"
   },
   "devDependencies": {},
